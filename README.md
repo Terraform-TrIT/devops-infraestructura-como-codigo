@@ -19,4 +19,17 @@
 | | [:link: Crear Load Balancer (3)](./3-infra-con-terraform/3.14-load-balancer-3/) |
 | | [:link: Crear Load Balancer (4)](./3-infra-con-terraform/3.15-load-balancer-4/) |
 | | [:link: Crear Load Balancer (5)](./3-infra-con-terraform/3.16-load-balancer-5/) |
-
+| [:four: **Infraestructura Reutilizable: Módulos**](./4-infra-reutilizable) | |
+| | [:link: Variables](./4-infra-reutilizable/4.2-variables/) |
+| | [:link: Variables: Tipado dinámico](./4-infra-reutilizable/4.3-tipado-dinamico/) |
+| | [:link: Variables: Mapas y validaciones](./4-infra-reutilizable/4.4-mapas-validaciones/) |
+| | [:link: Bucles y Meta-Argumentos](./4-infra-reutilizable/4.5-bucles-meta-argumentos/) |
+| | [:link: Bucles con Count](./4-infra-reutilizable/4.6-bucles-count/) |
+| | [:link: Bucles con For_each](./4-infra-reutilizable/4.7-bucles-foreach/) |
+| | [:link: Expresiones For](./4-infra-reutilizable/4.9-expresiones-for/) |
+| | [:link: Expresiones Splat](./4-infra-reutilizable/4.10-expresiones-splat/) |
+| | [:link: Variables local](./4-infra-reutilizable/4.11-variables-local/) |
+| | [:link: Refactorizar Load Balancer](./4-infra-reutilizable/4.12-refactorizar-load-balancer/) |
+| | [:link: Implementar Módulos](./4-infra-reutilizable/4.15-implementar-modulos/) |
+| | [:link: Diferentes entornos](./4-infra-reutilizable/4.18-diferentes-entornos/) |
+| | [:link: Usar módulos OS](./4-infra-reutilizable/4.19-usar-modulos-os/) |
