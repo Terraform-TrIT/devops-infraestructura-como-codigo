@@ -33,3 +33,8 @@
 | | [:link: Implementar Módulos](./4-infra-reutilizable/4.15-implementar-modulos/) |
 | | [:link: Diferentes entornos](./4-infra-reutilizable/4.18-diferentes-entornos/) |
 | | [:link: Usar módulos OS](./4-infra-reutilizable/4.19-usar-modulos-os/) |
+| [:five: **Terraform State**](./5-terraform-state) | |
+| | [:link: Backend S3](./5-terraform-state/5.5-backend-s3/) |
+| | [:link: Terraform Graph](./5-terraform-state/5.8-terraform-graph/) |
+| | [:link: Importar infraestructura](./5-terraform-state/5.9-importar-infraestructura/) |
+| | [:link: Renombrar un recurso](./5-terraform-state/5.10-renombrar-recurso/) |
